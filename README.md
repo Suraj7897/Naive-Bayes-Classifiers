@@ -45,23 +45,23 @@ You can install the libraries with the following command:
 ``bash
 pip install pandas numpy scikit-learn
 
-2. Installation
+2. Installation <br>
 Clone the repository and install dependencies:
 
 bash
 Copy
-Edit
-git clone https://github.com/Suraj7897/Naive-Bayes-Classifiers.git
-cd Naive-Bayes-Classifiers
-pip install -r requirements.txt
+Edit <br>
+git clone https://github.com/Suraj7897/Naive-Bayes-Classifiers.git <br>
+cd Naive-Bayes-Classifiers <br>
+pip install -r requirements.txt <br>
 
-3. Running the Model
+3. Running the Model <br>
 Once everything is set up, run the predict_beer_quality.py script to train and test the Naive Bayes model:
 
 bash
 Copy
 Edit
-python predict_beer_quality.py
+python predict_beer_quality.py <br>
 Alternatively, you can experiment with the Jupyter Notebook for interactive development:
 
 bash
@@ -69,14 +69,14 @@ Copy
 Edit
 jupyter notebook trial.ipynb
 
-4. Dataset
-The realdataset.csv contains features like beer attributes (e.g., alcohol content, bitterness, etc.) used for predicting the quality.
+4. Dataset <br>
+The realdataset.csv contains features like beer attributes (e.g., alcohol content, bitterness, etc.) used for predicting the quality.<br>
 The dataset is crucial for training the Naive Bayes model, and it should be placed in the same folder as the Python script or Notebook.
 
-5. Model Evaluation
+5. Model Evaluation<br>
 The model is evaluated based on accuracy, precision, recall, and confusion matrix. Upon running the script, you’ll see the performance metrics and predictions in the terminal or notebook output.
 
-📸 Screenshots / Demo
+📸 Screenshots / Demo<br>
 Here are some snapshots of the process:
 
 
@@ -85,10 +85,10 @@ Training the Naive Bayes Classifier on the dataset.
 
 Evaluation results including accuracy, precision, and recall.
 
-🧑‍💻 Contributing
+🧑‍💻 Contributing<br>
 We welcome contributions! Feel free to open issues or submit pull requests to improve the project.
 
-🔗 Links
+🔗 Links<br>
 GitHub Repository: Naive-Bayes-Classifiers
 
 🎉 Thanks for checking out the Naive-Bayes-Classifiers project! Let's brew some quality predictions! 🍻
